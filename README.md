@@ -86,7 +86,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Contribution
 
 - Fork this project, add improvements & make a pull request.
-- Send feedback & sugestions [here.](https://wa.me/918281392010/)
+- Send feedback & sugestions
 
 <br>
 
